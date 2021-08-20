@@ -2,8 +2,11 @@
 
 🤺 https://changani.me
 
-### Migrating everything to Gitlab
+### Portfolio
 
+- RemoteOK.IO Copycat 🐈 | [Repo](https://gitlab.com/firmino.changani/remote-ok-io-copycat)
+
+### Active on
 🦊 https://gitlab.com/firmino.changani
 
 ### Side projects
