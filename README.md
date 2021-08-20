@@ -3,7 +3,7 @@
 🤺 https://changani.me
 
 ### Portfolio
-🐈 [RemoteOK.IO Copycat](https://remote-ok-io-copycat.vercel.app/) | [Repo](https://gitlab.com/firmino.changani/remote-ok-io-copycat) | ![Pipeline](https://gitlab.com/firmino.changani/remote-ok-io-copycat/badges/develop/pipeline.svg) | Stack: React, Typescript
+🐈 [RemoteOK.IO Copycat](https://remote-ok-io-copycat.vercel.app/) | [Repo](https://gitlab.com/firmino.changani/remote-ok-io-copycat) | ![Pipeline](https://gitlab.com/firmino.changani/remote-ok-io-copycat/badges/develop/pipeline.svg) | Stack: React, Typescript, Gitlab CI, Jest
 
 ### Active on
 🦊 https://gitlab.com/firmino.changani
