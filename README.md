@@ -3,8 +3,7 @@
 🤺 https://changani.me
 
 ### Portfolio
-
-- RemoteOK.IO Copycat 🐈 | [Repo](https://gitlab.com/firmino.changani/remote-ok-io-copycat)
+- 🐈 [RemoteOK.IO Copycat]() | [Repo](https://gitlab.com/firmino.changani/remote-ok-io-copycat) | ![Pipeline](https://gitlab.example.com/firmino.changani/remote-ok-io-copycat/badges/develop/pipeline.svg)
 
 ### Active on
 🦊 https://gitlab.com/firmino.changani
